@@ -1,0 +1,2 @@
+
+A currency converter in Java is a program that facilitates the conversion of one currency value to another based on current exchange rates. It typically involves functionalities to input the amount in one currency, select the desired currency to convert to, and then calculate and display the converted amount. Utilizing APIs or databases for real-time exchange rates, Java can handle currency conversion logic, user interfaces, and data processing, allowing users to efficiently convert currencies within the application
